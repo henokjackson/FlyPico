@@ -1,2 +1,2 @@
 # FlyPico
-An RP2040-Based Open-Source Flight Controller.
+An RP2040-Based Open-Source Drone Flight Controller.
